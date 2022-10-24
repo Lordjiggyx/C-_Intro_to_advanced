@@ -6,3 +6,7 @@
 -- Subsection 13
     - Link to c# key words learn as you go on - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/
     
+-- Subsection 14
+    IPascalCase - This is for the interface names e.g (ICustomerName)
+    _camelCase - This is for private fields e.g (_customerName)
+    
