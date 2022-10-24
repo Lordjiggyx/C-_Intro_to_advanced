@@ -1,0 +1,8 @@
+-- Subsection 12
+    - A "namespace" is a collection of classes
+    - The goal of a namespce is to group the clasess that are meant fpr a specific purpose
+    - You can access the class of a namespace by using "namespace.class"
+    
+-- Subsection 13
+    - Link to c# key words learn as you go on - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/
+    
