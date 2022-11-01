@@ -1,0 +1,18 @@
+-- Subsection 17
+ - A static method is a method that can executed without creating any object for the class
+ - Usually when you want to create a console application you will search for the console application project type in your IDE
+ - You will also have to set the .NET framework majority of the time
+ - Every C# file needs to have a class name 
+ - The class name does not have to be the same as the file name
+ 
+*Creating a Rider Project*
+
+- You need to ensure that it is a .NET project that is selected from one of the .NET templates
+- You have to edit the files in the window that opens when you create a new project 
+- Some handy links which helped:
+    https://stackoverflow.com/questions/41164012/how-to-run-a-project-in-jetbrains-rider-ide
+    https://stackoverflow.com/questions/70722475/error-cs8773-feature-global-using-directive-is-not-available-in-c-sharp-9-0
+    
+    
+
+ 

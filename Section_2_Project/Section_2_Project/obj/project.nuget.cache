@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XENQevb03+q002zBTn4kwiyObERFWs9n/Nz4PA7FudAxnLDPO2EJtDWT2hAGxEpBgx0I77ecXoEIrPv7lZT3aA==",
+  "success": true,
+  "projectFilePath": "/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/Section_2_Project.csproj",
+  "expectedPackageFiles": [
+    "/Users/tomiilori/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.14/microsoft.netcore.app.host.osx-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

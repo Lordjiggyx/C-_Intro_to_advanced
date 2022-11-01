@@ -1,0 +1,16 @@
+/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/obj/Debug/net5.0/Section_2_Project.csproj.AssemblyReference.cache
+/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/obj/Debug/net5.0/Section_2_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/obj/Debug/net5.0/Section_2_Project.AssemblyInfoInputs.cache
+/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/obj/Debug/net5.0/Section_2_Project.AssemblyInfo.cs
+/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/obj/Debug/net5.0/Section_2_Project.csproj.CoreCompileInputs.cache
+/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/bin/Debug/net5.0/Section_2_Project
+/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/bin/Debug/net5.0/Section_2_Project.deps.json
+/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/bin/Debug/net5.0/Section_2_Project.runtimeconfig.json
+/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/bin/Debug/net5.0/Section_2_Project.runtimeconfig.dev.json
+/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/bin/Debug/net5.0/Section_2_Project.dll
+/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/bin/Debug/net5.0/ref/Section_2_Project.dll
+/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/bin/Debug/net5.0/Section_2_Project.pdb
+/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/obj/Debug/net5.0/Section_2_Project.dll
+/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/obj/Debug/net5.0/ref/Section_2_Project.dll
+/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/obj/Debug/net5.0/Section_2_Project.pdb
+/Users/tomiilori/Desktop/Coding Upskill/C#/C#_Intro_to_advanced/Section_2_Project/Section_2_Project/obj/Debug/net5.0/Section_2_Project.genruntimeconfig.cache
