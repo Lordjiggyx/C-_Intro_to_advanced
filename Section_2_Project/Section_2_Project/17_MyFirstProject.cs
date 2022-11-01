@@ -4,7 +4,7 @@ namespace Section_2_Project
 {
     public class HelloWorld
     {
-        static void Main(string[] args)
+        public static void hello()
         {
             Console.WriteLine("Hello World");
         }
